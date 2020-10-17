@@ -1,4 +1,4 @@
-## This gist consist of listing of dimensions of required by the App store for app listing.
+## This Repository consist of listing of dimensions of required by the App store for app listing.
 
 *  Device Name                          Size                    Quantity
 

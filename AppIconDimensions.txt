@@ -1,0 +1,10 @@
+Below are the dimensional requirement for App Icon
+
+40x40
+58x58
+60x60
+87x87
+80x80
+120x120
+180x180
+1024x1024

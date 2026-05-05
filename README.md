@@ -10,3 +10,14 @@
 6.  iPad 13                             2064×2752
 7.  iPad                                2752×2064
 
+
+Other information needed is
+
+Support URL - A URL with support information for your app. This appears on your app’s product page once you release your app on the App Store.
+Marketing URL - A URL with marketing information about your app. This URL will be visible on the App Store.
+Promotional Text - Promotional text lets you inform your App Store visitors of any current app features without requiring an updated submission. This text will appear above your description on the App Store for customers with devices running iOS 11 or later, and macOS 10.13 or later.
+Description - A description of your app, detailing features and functionality.
+Keywords - Include one or more keywords that describe your app. Keywords make App Store search results more accurate. Separate keywords with an English comma, Chinese comma, or a mix of both.
+TNC
+Privacy Policy
+A link to request data deletion

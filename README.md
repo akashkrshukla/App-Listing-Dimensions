@@ -13,14 +13,23 @@
 
 App Icon Dimensions
 40x40
+
 58x58
+
 60x60
+
 87x87
+
 80x80
+
 120x120
+
 136x136
+
 180x180
+
 192x192
+
 1024x1024
 
 Other information needed is
